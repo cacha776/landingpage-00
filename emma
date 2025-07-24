@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Call - Emma</title>
+  <link rel="stylesheet" href="body {
+  font-family: sans-serif;
+  background: #f0f0f0;
+  padding: 20px;
+}
+
+.chat-container {
+  max-width: 400px;
+  margin: auto;
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.chat-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.avatar {
+  width: 60px;
+  border-radius: 50%;
+}
+
+.online {
+  color: green;
+  font-size: 14px;
+}
+
+.chat-message {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.video-preview {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.chat-text {
+  margin-top: 10px;
+  font-size: 16px;
+  background: #eee;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+.instructions {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.btn {
+  display: block;
+  background: #007bff;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}">
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">
+      <img src="https://i.imgur.com/qBitCmL.jpeg" alt="Emma" class="avatar">
+      <div>
+        <h2>Emma</h2>
+        <p class="online">● online...</p>
+      </div>
+    </div>
+
+    <div class="chat-message">
+      <img src="https://i.imgur.com/qBitCmL.jpeg" alt="Video" class="video-preview">
+      <p class="chat-text"> let's Call Me?</p>
+    </div>
+
+    <div class="instructions">
+      <p>To <b>continue</b>, please click the <b>BLUE button BELOW</b>. After entering, slide down slowly, there is a word <b>OPEN</b>, enter directly and wait <b>150 seconds</b>, OK.</p>
+    </div>
+
+    <a href="https://foaltax.com/dhrgese5?key=8671e9b5e0c5562202afd84fe5e9124f" class="btn">CONTINUE</a >
+  </div>
+</body>
+</html>
